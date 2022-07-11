@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marilou.pichol@laposte.net
+	name = Marilou Pichol
